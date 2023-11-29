@@ -55,6 +55,7 @@ The project structure is organized as follows:
 
 ### **Additional Notes**
 
+* Please make sure that the JDK is set **20 or greater version** while executing the code.
 * Make sure to configure your test environment and API endpoints in the appropriate configuration files.
 * Check the documentation of Rest Assured, TestNG, Allure Report, and Lombok for detailed usage and customization options.
 
